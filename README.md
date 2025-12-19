@@ -1,8 +1,10 @@
 A Neuro-Symbolic AI Approach to Understanding Brain Regions Involved in the Flow State
-
 Author: Gajanan Santosh Koleshwar
 Affiliation: Assistant Professor, Department of Master of Computer Application, Maharashtra Institute of Technology, Chhatrapati Sambhajinagar, Maharashtra, India
-Email: koleshwargajanan22@gmail.com, 1gajanan.koleshwar@mit.asia
+Email: koleshwargajanan22@gmail.com, gajanan.koleshwar@mit.asia
+License : MIT - AS IS
+Copyright: Copyright (c) 2025 Gajanan Santosh Koleshwar
+
 
 Overview
 
